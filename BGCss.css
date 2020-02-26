@@ -10,7 +10,15 @@ body{
 	top:15%;
 	background:linear-gradient(to right,red,yellow);
 }
+ul{
+	text-align :right;
 
+}
+li{
+	font-size: 0.75em;
+	list-style: none;
+	display: inline-block;
+}
 h1{
 	font:600 3.5em 'Raleway',sans-serif ;
 	color:rgba(0,0,0,.5);
@@ -26,4 +34,7 @@ h3{
 	text-align:center;
 	text-transform:none;
 	letter-spacing: 0.01em;
+}
+footer{
+	font-size: 0.50em
 }
