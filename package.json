@@ -1,0 +1,22 @@
+{
+  "name": "kevindev10.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BGJs.js",
+  "scripts": {
+    "build": "browserify BGJs.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindev10/kevindev10.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevindev10/kevindev10.github.io/issues"
+  },
+  "homepage": "https://github.com/kevindev10/kevindev10.github.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
